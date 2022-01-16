@@ -12,7 +12,16 @@
 - NodeJS 16.x 
 - VS Code
 
-## Playlist mostrando a instalação:
+[![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
+[![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
+
+## Objetivos do projeto 
+- Implementar o back end
+- Modelo de domínio
+- Acesso a banco de dados
+- Estruturar o back end no padrão camadas
+- Criar endpoints da API REST
+- Implantação na nuvem
 
     
 #### Modelo conceitual
